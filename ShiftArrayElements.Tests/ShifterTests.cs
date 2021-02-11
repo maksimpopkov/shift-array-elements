@@ -45,7 +45,7 @@ namespace ShiftArrayElements.Tests
             {
             }
         }
-        
+
         [TestCase(new int[] { })]
         [TestCase(new int[] { 1 })]
         [TestCase(new int[] { 1, 2, 3, 4, 5 })]
