@@ -5,7 +5,7 @@ namespace ShiftArrayElements
     public static class Shifter
     {
         /// <summary>
-        /// Shifts elements in a <see cref="source"/> array using <see cref="iterations"/> array for getting directions and iterations (odd elements - left direction, even elements - right direction).
+        /// Shifts elements in a <see cref="source"/> array using <see cref="iterations"/> array for getting directions and iterations (see README.md for detailed instructions).
         /// </summary>
         /// <param name="source">A source array.</param>
         /// <param name="iterations">An array with iterations.</param>
